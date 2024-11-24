@@ -35,16 +35,18 @@ I am **Ravishankar Kumar**, a dedicated and innovative full-stack developer purs
 
 ---
 
+## 📞 **Get in Touch**
+- 📧 **Email**: [ravishankarmahto887752@gmail.com](mailto:ravishankarmahto887752@gmail.com)  
+- 🔗 **LinkedIn**: [Ravishankar Kumar](https://www.linkedin.com/in/ravishankar-kumar-ba1620222/)  
+- 📱 **Phone**: [+91 6207736732](tel:+916207736732)
+
+---
+
 ## 📂 **Project Structure**  
 ```plaintext
 ├── index.html          # Main HTML file  
 ├── style.css           # Custom CSS styles  
 ├── assets/             # Images and external resources  
 ├── README.md           # GitHub README
-
-## 📞 **Get in Touch**  
-- 📧 **Email**: [ravishankarmahto887752@gmail.com](mailto:ravishankarmahto887752@gmail.com)  
-- 🔗 **LinkedIn**: [Ravishankar Kumar](https://www.linkedin.com/in/ravishankar-kumar-ba1620222/)  
-- 📱 **Contact Number**: +91 6207736732  
 
 
